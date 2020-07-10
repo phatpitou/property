@@ -1,0 +1,15 @@
+@extends('layouts.app')
+@section('content')
+<h1>alltype</h1>
+<h1>alltype</h1>
+<h1>alltype</h1>
+<h1>alltype</h1>
+<h1>alltype</h1>
+<h1>alltype</h1>
+<h1>alltype</h1>
+<h1>alltype</h1>
+<h1>alltype</h1>
+<h1>alltype</h1>
+<h1>alltype</h1>
+<h1>alltype</h1>
+@endsection 	

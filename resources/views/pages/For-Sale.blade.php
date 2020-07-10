@@ -1,0 +1,15 @@
+@extends('layouts.app')
+@section('content')
+<h1>ForSale</h1>
+<h1>ForSale</h1>
+<h1>ForSale</h1>
+<h1>ForSale</h1>
+<h1>ForSale</h1>
+<h1>ForSale</h1>
+<h1>ForSale</h1>
+<h1>ForSale</h1>
+<h1>ForSale</h1>
+<h1>ForSale</h1>
+<h1>ForSale</h1>
+<h1>ForSale</h1>
+@endsection 	

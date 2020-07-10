@@ -1,0 +1,15 @@
+@extends('layouts.app')
+@section('content')
+<h1>Forrent</h1>
+<h1>Forrent</h1>
+<h1>Forrent</h1>
+<h1>Forrent</h1>
+<h1>Forrent</h1>
+<h1>Forrent</h1>
+<h1>Forrent</h1>
+<h1>Forrent</h1>
+<h1>Forrent</h1>
+<h1>Forrent</h1>
+<h1>Forrent</h1>
+<h1>Forrent</h1>
+@endsection 	
